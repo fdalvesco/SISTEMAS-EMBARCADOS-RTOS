@@ -4,9 +4,9 @@ Além de ser simples de implementar e usar, o MQTT oferece diferentes níveis de
 Amplamente utilizado, o MQTT conecta e controla dispositivos inteligentes, coleta dados de sensores distribuídos para monitoramento e integra dispositivos em automação residencial ou industrial, facilitando a comunicação entre dispositivos IoT de maneira escalável através do uso de tópicos para direcionar mensagens aos destinatários adequados.
 
 ## MQTT -Na Prática
-1. Publicação: Dispositivos enviam mensagens para um tópico específico.
-2. Assinatura: Dispositivos interessados se inscrevem nos tópicos para receber as mensagens.
-3. Broker MQTT: Serve como intermediário que recebe mensagens publicadas e as encaminha aos dispositivos assinantes dos tópicos correspondentes.
+* Publicação: Dispositivos enviam mensagens para um tópico específico.
+* Assinatura: Dispositivos interessados se inscrevem nos tópicos para receber as mensagens.
+* Broker MQTT: Serve como intermediário que recebe mensagens publicadas e as encaminha aos dispositivos assinantes dos tópicos correspondentes.
 
 
 
