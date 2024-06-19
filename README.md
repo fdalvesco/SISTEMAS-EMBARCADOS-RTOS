@@ -90,6 +90,10 @@ Amplamente utilizado, o MQTT conecta e controla dispositivos inteligentes, colet
       client.loop();  // Mantém a comunicação com o servidor MQTT
     }
 
+## Prints do Broker, Subscribe e Publish
+![c1b289b7-d2f7-4357-8e05-d7d53b9c6cdf](https://github.com/fdalvesco/SISTEMAS-EMBARCADOS-RTOS/assets/101358513/0325a523-c260-4edf-90d2-78b76c33b89b)
+
+![TERMINAL](https://github.com/fdalvesco/SISTEMAS-EMBARCADOS-RTOS/assets/101358513/75e95540-8d90-4f92-b286-29b44ee46282)
 
 
 # SISTEMAS-EMBARCADOS-RTOS (04/06/2024)
