@@ -10,6 +10,7 @@ Amplamente utilizado, o MQTT conecta e controla dispositivos inteligentes, colet
 * Broker MQTT: Serve como intermediário que recebe mensagens publicadas e as encaminha aos dispositivos assinantes dos tópicos correspondentes.
 
 ## Código Comentado
+
   #include <Arduino.h>
   #include <ESP8266WiFi.h>
   #include <PubSubClient.h>
@@ -88,8 +89,6 @@ Amplamente utilizado, o MQTT conecta e controla dispositivos inteligentes, colet
     }
     client.loop();  // Mantém a comunicação com o servidor MQTT
   }
-
-
 
 
 # SISTEMAS-EMBARCADOS-RTOS (04/06/2024)
