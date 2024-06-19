@@ -1,7 +1,7 @@
 # MQTT (18/06/2024)
 <p align="justify">
-O MQTT (Message Queuing Telemetry Transport) é um protocolo de mensagens leve ideal para conectar dispositivos IoT de maneira eficiente em redes com largura de banda limitada. 
-Além de ser simples de implementar e usar, o MQTT oferece diferentes níveis de entrega de mensagens, garantindo confiabilidade aos dispositivos IoT conectados. 
+O MQTT (Message Queuing Telemetry Transport) é um protocolo de mensagens leve ideal para conectar dispositivos IoT de maneira eficiente em redes com largura de banda limitada.  
+Além de ser simples de implementar e usar, o MQTT oferece diferentes níveis de entrega de mensagens, garantindo confiabilidade aos dispositivos IoT conectados.  
 Amplamente utilizado, o MQTT conecta e controla dispositivos inteligentes, coleta dados de sensores distribuídos para monitoramento e integra dispositivos em automação residencial ou industrial, facilitando a comunicação entre dispositivos IoT de maneira escalável através do uso de tópicos para direcionar mensagens aos destinatários adequados. </p>
 
 ## MQTT -Na Prática
